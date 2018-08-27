@@ -35,7 +35,7 @@ function alphabetPosition(text) {
       .map( (c) => c.charCodeAt() - 64)
       .join(' ');
   }
-  /**********3 */
+  /***********3 */
   function alphabetPosition(text) {
     return text.toLowerCase().match(/[a-z]/g).map(function(currentValue) {
       return currentValue.charCodeAt(0) - 96;
