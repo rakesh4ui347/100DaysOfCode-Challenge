@@ -30,6 +30,4 @@ I recommend that you commit to no more than 2-3 challenges at a time, ideally 2.
 * If you like this repo and find it useful, please consider &#9733; starring it (on top right of the page) :)
 =======
 # 100-days-of-code
-100-days-of-code challenge daily progress log 
->>>>>>> 308b525dc3a0e8c2ac740c624376928d3b3e2347
 
